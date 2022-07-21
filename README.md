@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamrajsingh&label=Profile%20views&color=0e75b6&style=flat" alt="shivamrajsingh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shivamwyd" target="blank"><img src="https://img.shields.io/twitter/follow/shivamwyd?logo=twitter&style=for-the-badge" alt="shivamwyd" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kitkatgotabreak" target="blank"><img src="https://img.shields.io/twitter/follow/kitkatgotabreak?logo=twitter&style=for-the-badge" alt="kitkatgotabreak" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shivamwyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivamwyd" height="30" width="40" /></a>
-<a href="https://instagram.com/shivamwyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamwyd" height="30" width="40" /></a>
+<a href="https://twitter.com/kitkatgotabreak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kitkatgotabreak" height="30" width="40" /></a>
+<a href="https://instagram.com/kitkatgotabreak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kitkatgotabreak" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/revine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="revine" height="30" width="40" /></a>
 <a href="https://discord.gg/Z7gCbcExTr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Z7gCbcExTr" height="30" width="40" /></a>
 </p>
